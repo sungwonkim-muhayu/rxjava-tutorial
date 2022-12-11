@@ -33,7 +33,7 @@
 
 ## 마블 다이어그램
 
-![marble-diagrams(https://reactivex.io)](resources/img/marble-diagrams.png)
+![marble-diagrams(https://reactivex.io)](src/main/resources/img/marble-diagrams.png)
 
 ### 정의
 
@@ -42,7 +42,7 @@
 
 ### 해석 방법
 
-![marble-diagrams-map(https://reactivex.io)](resources/img/marble-diagrams-map.png)
+![marble-diagrams-map(https://reactivex.io)](src/main/resources/img/marble-diagrams-map.png)
 
 - 상단 타임라인 : 상단에 존재하는 선으로서 시간의 흐름에 따른 데이터 발행을 의미한다.
 - 데이터 in 상단 타임라인 : Observable이 발행하는 데이터
